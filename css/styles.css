@@ -1,0 +1,23 @@
+* {
+    margin: 10%;
+    padding: 0%;
+}
+
+body
+{
+    
+}
+
+.heading-1
+{
+
+    color: crimson;
+    background-color: azure;
+    display: flex;
+}
+.foot
+{
+    /* background-color: black; */
+    color: red;
+    width:100%;
+}
